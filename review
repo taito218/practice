@@ -1,0 +1,20 @@
+【gitの操作】
+git cloneサイト名
+フォルダー名を打ちこむ
+vim ファイル名
+git add ファイル名
+git commit
+git push origin master
+git pull origin master
+
+【vimの操作】
+iで書込み
+esc→ZZで終了
+
+【ファイルの操作】
+ls ファイルを見る
+rm ファイルを削除
+rm -rf フォルダを消去
+cdでフォルダ移動
+mkdirでフォルダ作成する
+vimでファイル作成
