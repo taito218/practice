@@ -7,9 +7,26 @@ git commit
 git push origin master
 git pull origin master
 
+【gitのbranch操作】
+git branch 新しいbranch名
+git checkout 新しいbranch名
+git add ファイル名
+git commit
+git push origin 新しいbranch名
+
+【gitのリモート操作】
+pull request作成
+marge pull request
+ローカルでマスターに戻る
+git checkout master
+git pull origin master 
+git branch -d マージしたbranch
+
 【vimの操作】
 iで書込み
 esc→ZZで終了
+:cqで保存せずに終了
+:wqそのまま終了＝ZZ
 
 【ファイルの操作】
 ls ファイルを見る
