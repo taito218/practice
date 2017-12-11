@@ -1,0 +1,10 @@
+print('hello, world')
+print("one")
+print("two")
+print("AAAAA")
+print("AAAAA")
+print("AAAAA")
+print("AAAAA")
+print("AAAAA")
+print("end")
+
